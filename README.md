@@ -72,19 +72,6 @@ Focused on building high-performance applications that combine clean architectur
 
 ---
 
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=superfortune-passion&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=superfortune-passion&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
 # 📊 Most Used Technologies
 
 <p align="center">
@@ -93,15 +80,6 @@ Focused on building high-performance applications that combine clean architectur
 
 </p>
 
----
-
-# 🎓 Education
-
-### Bachelor of Science in Computer Science
-University of Toronto  
-`2011 — 2015`
-
----
 
 # 🌍 Contact
 
@@ -112,16 +90,5 @@ University of Toronto
 
 ---
 
-# ⚡ Engineering Philosophy
-
-```bash
-Build scalable systems.
-Write maintainable code.
-Optimize relentlessly.
-Automate intelligently.
-Never stop learning.
-```
-
----
 
 ⭐ Thanks for visiting my profile.
