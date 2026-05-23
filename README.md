@@ -72,55 +72,6 @@ Focused on building high-performance applications that combine clean architectur
 
 ---
 
-# 💼 Professional Experience
-
-## Senior AI & Full Stack Engineer
-### Dell • Remote
-`2024 — 2026`
-
-- Architected AI-enabled full stack systems
-- Designed scalable intelligent services
-- Led cross-functional engineering initiatives
-- Built automated deployment pipelines
-- Improved inference & processing workflows
-- Modernized enterprise platforms
-
----
-
-## Senior Software Engineer — Data & Web Applications
-### Wherefour • Remote
-`2022 — 2024`
-
-- Developed AI-powered web applications
-- Designed responsive enterprise interfaces
-- Built real-time analytics systems
-- Improved large-scale data processing
-- Optimized application reliability & security
-
----
-
-## Software Engineer — Full Stack Development & AI/Data
-### ThoughtWire
-`2018 — 2022`
-
-- Contributed to healthcare analytics platforms
-- Built forecasting & optimization systems
-- Developed advanced data visualizations
-- Integrated predictive AI models
-- Improved system scalability & performance
-
----
-
-## Software Engineer — Banking Systems
-### China Bank PH
-`2016 — 2018`
-
-- Developed financial software systems
-- Built intelligent fraud-detection workflows
-- Improved transaction monitoring systems
-- Optimized secure banking operations
-
----
 
 # 📈 GitHub Analytics
 
