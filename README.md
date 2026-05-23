@@ -6,6 +6,15 @@
 
 ---
 
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=superfortune-passion&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=superfortune-passion&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
 # 🚀 About Me
 
 Senior Software Engineer with 10+ years of experience building scalable web applications, AI-driven systems, and modern cloud-native architectures.
@@ -24,7 +33,8 @@ Focused on building high-performance applications that combine clean architectur
 
 ---
 
-# 🧠 Core Expertise
+<details>
+<summary>🧠 Core Expertise</summary>
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,16 +43,12 @@ Focused on building high-performance applications that combine clean architectur
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
 
 ### AI / Data Engineering
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -56,8 +62,6 @@ Focused on building high-performance applications that combine clean architectur
 - Intelligent Automation
 - Data Visualization
 
----
-
 ### Cloud / DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -70,9 +74,12 @@ Focused on building high-performance applications that combine clean architectur
 - Kubernetes Orchestration
 - Monitoring & Observability
 
+</details>
+
 ---
 
-# 💼 Professional Experience
+<details>
+<summary>💼 Professional Experience</summary>
 
 ## Senior AI & Full Stack Engineer
 ### Dell • Remote
@@ -85,8 +92,6 @@ Focused on building high-performance applications that combine clean architectur
 - Improved inference & processing workflows
 - Modernized enterprise platforms
 
----
-
 ## Senior Software Engineer — Data & Web Applications
 ### Wherefour • Remote
 `2022 — 2024`
@@ -96,8 +101,6 @@ Focused on building high-performance applications that combine clean architectur
 - Built real-time analytics systems
 - Improved large-scale data processing
 - Optimized application reliability & security
-
----
 
 ## Software Engineer — Full Stack Development & AI/Data
 ### ThoughtWire
@@ -109,8 +112,6 @@ Focused on building high-performance applications that combine clean architectur
 - Integrated predictive AI models
 - Improved system scalability & performance
 
----
-
 ## Software Engineer — Banking Systems
 ### China Bank PH
 `2016 — 2018`
@@ -120,27 +121,18 @@ Focused on building high-performance applications that combine clean architectur
 - Improved transaction monitoring systems
 - Optimized secure banking operations
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=superfortune-passion&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=superfortune-passion&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+</details>
 
 ---
 
-# 📊 Most Used Technologies
+<details>
+<summary>📊 Most Used Technologies</summary>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,java,docker,kubernetes,aws,gcp,mongodb,postgres,graphql,tensorflow,pytorch,azure" />
-
 </p>
+
+</details>
 
 ---
 
@@ -156,8 +148,7 @@ University of Toronto
 
 - 📧 arielmarnel0402@gmail.com
 - 📍 City of San Fernando, Pampanga, PH
-- 💼 LinkedIn:
-  https://www.linkedin.com/in/ariel-marnel-orbe-14a09430a/
+- 💼 LinkedIn: https://www.linkedin.com/in/ariel-marnel-orbe-14a09430a/
 
 ---
 
@@ -169,8 +160,3 @@ Write maintainable code.
 Optimize relentlessly.
 Automate intelligently.
 Never stop learning.
-```
-
----
-
-⭐ Thanks for visiting my profile.
