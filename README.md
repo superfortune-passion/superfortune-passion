@@ -24,7 +24,7 @@ Focused on building high-performance applications that combine clean architectur
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,java,docker,kubernetes,aws,gcp,mongodb,postgres,graphql,tensorflow,pytorch,azure" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,java,docker,kubernetes,aws,gcp,mongodb,postgres,graphql,tensorflow,pytorch,azure,c,css3,graphql,html5,ruby,solidity,aws,firebase,heroku,vercel,reatroutuer,redux,yarn,jenkins,docker,linux,postgres,sqlite,supabase,postman" />
 
 </p>
 
