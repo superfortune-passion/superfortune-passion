@@ -28,15 +28,4 @@ Focused on building high-performance applications that combine clean architectur
 
 </p>
 
-
-# 🌍 Contact
-
-- 📧 arielmarnel0402@gmail.com
-- 📍 City of San Fernando, Pampanga, PH
-- 💼 LinkedIn:
-  https://www.linkedin.com/in/ariel-marnel-orbe-14a09430a/
-
----
-
-
 ⭐ Thanks for visiting my profile.
