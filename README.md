@@ -1,11 +1,8 @@
-# 👋 Ariel Orbe
+# 👋 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Engineer;AI%2FData+%26+FullStack+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Scalable+Systems+%26+Modern+Architecture;Open+to+Global+Remote+Opportunities&center=true&width=850&height=45">
 </p>
-
----
-# 🚀 About Me
 
 Senior Software Engineer with 10+ years of experience building scalable web applications, AI-driven systems, and modern cloud-native architectures.
 
